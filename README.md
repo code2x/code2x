@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @FR
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning both Frontend and backend
-- 💞️ I’m looking to collaborate on Open Source Prjects
-- ⚡ Fun fact: I love Bugs and errors
+## ⚡ Fun fact: I love Bugs and errors
